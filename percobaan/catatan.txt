@@ -1,0 +1,2 @@
+di sini berisikan html+css+js yang dimana sebagai percobaan sebelum di jadikan view.blade 
+kenapa di buat percobaan? ditakutkan nanti kalau langsung membuat di blade itu ngetesnya ribet harus ini itu dulu 
